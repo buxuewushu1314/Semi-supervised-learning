@@ -345,6 +345,14 @@ Please cite us if you fine this project helpful for your project:
   year = {2023}
 }
 
+@misc{2023mmpretrain,
+    title={OpenMMLab's Pre-training Toolbox and Benchmark},
+    author={MMPreTrain Contributors},
+    howpublished = {\url{https://github.com/open-mmlab/mmpretrain}},
+    year={2023}
+}
+
+
 @inproceedings{usb2022,
   doi = {10.48550/ARXIV.2208.07204},
   url = {https://arxiv.org/abs/2208.07204},
