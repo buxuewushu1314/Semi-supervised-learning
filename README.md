@@ -88,6 +88,11 @@
 
 <!-- News and Updates -->
 
+## Introduction
+LusterCls is a classification toolbox developed for the industrial field based on the MMPretrain project.
+The main branch works with PyTorch 1.8+.
+
+
 ## News and Updates
 
 - [07/07/2023] Add [DeFixmatch](https://arxiv.org/abs/2203.07512). Fixed some bugs. Release semilearn=0.3.1/
