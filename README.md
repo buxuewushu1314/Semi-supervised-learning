@@ -374,7 +374,8 @@ Please cite us if you fine this project helpful for your project/paper:
 
 ## Acknowledgments
 
-We thanks the following projects for reference of creating USB:
+We thanks the following projects for reference of creating LusterCls:
+- [MMPretrain](https://github.com/TorchSSL/TorchSSL)
 
 - [TorchSSL](https://github.com/TorchSSL/TorchSSL)
 - [FixMatch](https://github.com/google-research/fixmatch)
