@@ -334,11 +334,17 @@ The USB community is maintained by:
 
 <!-- CITE -->
 
-## Citing USB
+## Citing LusterCls
 
-Please cite us if you fine this project helpful for your project/paper:
+Please cite us if you fine this project helpful for your project:
 
 ```
+@inproceedings{LusterCls,
+  title = {Luster's classification Toolbox and Benchmark},
+  author = {LusterCls Contributors},
+  year = {2023}
+}
+
 @inproceedings{usb2022,
   doi = {10.48550/ARXIV.2208.07204},
   url = {https://arxiv.org/abs/2208.07204},
